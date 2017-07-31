@@ -7,38 +7,38 @@
         "files": {}
     },
     "installed_plugins": {
-        "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
-        },
-        "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
+        },
+        "cordova-plugin-x-socialsharing": {
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
         }
     },
     "dependent_plugins": {
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.salutiniarredamenti"
+            "PACKAGE_NAME": "com.salutiniarredamenti.SalutiniArredamenti"
         }
     }
 }
